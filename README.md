@@ -1,6 +1,6 @@
-# Crash Data
+# Crash Data Analysis
 
-The Crash dataset offers detailed information on vehicle crash from 2016-2023. There are some potential primary objective for analyzing this dataset:
+The crash dataset offers detailed information on vehicle crash from 2016-2023. There are some potential primary objective for analyzing this dataset:
 - Identifying accident hotspots and improving road safety?
 - Understanding the factors contributing to severe accidents?
 - Analyzing the impact of weather or road conditions on accidents?
