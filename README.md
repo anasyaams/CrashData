@@ -1,6 +1,6 @@
 # Crash Data Analysis
 
-The crash dataset offers detailed information on vehicle crash from 2016-2023. There are some potential primary objective for analyzing this dataset:
+The crash dataset offers detailed information on vehicle crash from 2015-2024. There are some potential primary objective for analyzing this dataset:
 - Identifying accident hotspots and improving road safety?
 - Understanding the factors contributing to severe accidents?
 - Analyzing the impact of weather or road conditions on accidents?
@@ -21,3 +21,5 @@ Based on the dataset, here are some areas that I have explored:
    - Collision type analysis: Identify the most common types of collisions
    - Driver behavior analysis: Explore the impact of driver distractions, substance abuse, and speeding on accidents
    - Vehicle factors: Analyze the role of vehicle type, make, model, and year in accident causation
+
+I also made a powerpoint that present the result of analysis.
